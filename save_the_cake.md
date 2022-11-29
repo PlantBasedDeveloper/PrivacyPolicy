@@ -8,6 +8,10 @@ If you choose to use my Service, then you agree to the collection and use of inf
 
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Save the Cake unless otherwise defined in this Privacy Policy.
 
+** Data Deletion Instructions **
+
+Since no data is collected by the app, there is no need to define any data deletion instruction. For any additional questions feel free to contact me by email.
+
 **Information Collection and Use**
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
